@@ -1,5 +1,5 @@
 {
-  "name": "etsay-webpack-lib",
+  "name": "estay-webpack-lib",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
@@ -19,15 +19,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ZhitaoLiu/etsay-webpack-lib.git"
+    "url": "git+https://github.com/ZhitaoLiu/estay-webpack-lib.git"
   },
   "keywords": [],
   "author": "damon.liu <651615266@qq.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ZhitaoLiu/etsay-webpack-lib/issues"
+    "url": "https://github.com/ZhitaoLiu/estay-webpack-lib/issues"
   },
-  "homepage": "https://github.com/ZhitaoLiu/etsay-webpack-lib#readme",
+  "homepage": "https://github.com/ZhitaoLiu/estay-webpack-lib#readme",
   "devDependencies": {
     "glob-all": "^3.1.0",
     "mocha": "^6.1.4",
